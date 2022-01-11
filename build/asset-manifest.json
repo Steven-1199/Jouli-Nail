@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fd321c8.css",
+    "main.js": "/static/js/main.0ba5e40f.js",
+    "static/js/787.127f903d.chunk.js": "/static/js/787.127f903d.chunk.js",
+    "static/media/nail2.jpg": "/static/media/nail2.281f44cac7fa4ac0222d.jpg",
+    "static/media/about-background.jpg": "/static/media/about-background.fe8ed853aa99bcf376ca.jpg",
+    "static/media/pedicure.jpg": "/static/media/pedicure.90ca9fe6993f6b699aae.jpg",
+    "static/media/nail3.jpg": "/static/media/nail3.a629278f431e68d6c651.jpg",
+    "static/media/manicure.jpg": "/static/media/manicure.dddd65b169c7d87619c5.jpg",
+    "static/media/dip_powder.jpg": "/static/media/dip_powder.0809d15ff22646e94a2a.jpg",
+    "static/media/nail1.jpg": "/static/media/nail1.d3ed40359854b1d762f2.jpg",
+    "static/media/manicure.png": "/static/media/manicure.1735940a144adf8bbe3a.png",
+    "static/media/address.png": "/static/media/address.b438501ee709ec032ff0.png",
+    "static/media/phone-call.png": "/static/media/phone-call.fd7700fa7f9bba0feea9.png",
+    "static/media/check.png": "/static/media/check.a634850579ddf93671f4.png",
+    "static/media/right.png": "/static/media/right.f8067476df922c27844f.png",
+    "static/media/user.png": "/static/media/user.33e7df0963941edbeb70.png",
+    "static/media/close.png": "/static/media/close.edd93c06350ead47236f.png",
+    "index.html": "/index.html",
+    "main.5fd321c8.css.map": "/static/css/main.5fd321c8.css.map",
+    "main.0ba5e40f.js.map": "/static/js/main.0ba5e40f.js.map",
+    "787.127f903d.chunk.js.map": "/static/js/787.127f903d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fd321c8.css",
+    "static/js/main.0ba5e40f.js"
+  ]
+}
